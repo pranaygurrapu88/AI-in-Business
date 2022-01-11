@@ -1,4 +1,4 @@
-# AI-in-Business
+# AI-in-Business(Marketing)
 
 The aim of project is marketers to know about their customers and identify their needs. Maketers can help to build the company’s brand, engage customers, grow revenue and increase sales.
 
