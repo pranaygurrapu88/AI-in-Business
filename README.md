@@ -1,7 +1,7 @@
 # AI-in-Business(Marketing)
 
-The aim of project is marketers to know about their customers and identify their needs. Maketers can help to build the company’s brand, engage customers, grow revenue and increase sales.
+The aim of project is marketers to know about their customers and identify their needs.Sales persons can use this project to understand their customer and identify their needs. Marketing can help to increase the company's brand, grow revenue, and grow sales.
 
-I have used k-means intuition which is an unsupervised learning algorithm(clustering). Applied principle component analysis algorithm and performed Auto encoding intuition for dimensionality reduction.
+The algorithm was developed using the k-means clustering algorithm which is an unsupervised learning algorithm. Model applies Principle Component Analysis algorithm and Auto Encoding intuition for dimensionality reduction.
 
 Download the dataset from here. https://drive.google.com/drive/folders/18K4-h0vy8ffqCGf5qcLMB0PlN4QYV-e4?usp=sharing
